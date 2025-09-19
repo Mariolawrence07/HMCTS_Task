@@ -5,11 +5,11 @@ A monorepo containing a task management system for HMCTS caseworkers to efficien
 ## Project Structure
 
 
-hmcts-task-manager/
-├── backend/          # Express.js API server
-├── frontend/         # React application with Zustand
-├── package.json      # Root package.json with workspace configuration
-└── README.md         # This file
+hmcts-task-manager-
+backend-       Express.js API server
+frontend-       React application with Zustand
+package.json-      Root package.json with workspace configuration
+
 
 
 ## Features
